@@ -1,0 +1,19 @@
+name = "cloudflare-proxy"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# 部署配置
+# account_id = ""  # 取消注释并填入你的 Cloudflare Account ID
+
+# Workers 设置
+workers_dev = true
+
+# 环境变量（可选）
+# [env.production]
+# name = "cloudflare-proxy-prod"
+# workers_dev = false
+
+# 路由配置（可选，用于自定义域名）
+# [[routes]]
+# pattern = "proxy.example.com/*"
+# zone_name = "example.com"
