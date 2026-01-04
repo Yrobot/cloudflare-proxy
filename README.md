@@ -2,7 +2,7 @@
 
 > 基于 Cloudflare Workers 的全功能 HTTP/HTTPS 代理服务
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Yrobot/cloudflare-proxy)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://sink.proddig.com/cloudflare-search-github)
 
 ## 特性
 
